@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @rpkrupali1
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Krupali Pilgulwar
+- 👀 I’m interested in innovation and learning
+- 🌱 I’m Software Quality Architect and full stack web developer
+- 💞️ I’m looking to collaborate on any nodeJs full stack web development
+- 📫 Reach me @rpkrupali@gmail.com
 
 <!---
 rpkrupali1/rpkrupali1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
