@@ -2,6 +2,7 @@
 - 👀 I’m interested in innovation and learning
 - 🌱 I’m Software Quality Architect and full stack web developer
 - 💞️ I’m looking to collaborate on any nodeJs full stack web development
+- Get more details about me at  https://rpkrupali1.github.io/krupali_portfolio/#aboutme
 - 📫 Reach me @rpkrupali@gmail.com
 
 <!---
