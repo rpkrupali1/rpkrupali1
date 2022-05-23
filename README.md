@@ -23,3 +23,7 @@ You can click the Preview link to take a look at your changes.
 <a href="https://github.com/rpkrupali1/kitchen-around-you">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rpkrupali1&repo=kitchen-around-you&theme=tokyonight" />
 </a>
+
+
+<!-- 
+![Profile View Counter](https://komarev.com/ghpvc/?username=rpkrupali1) -->
