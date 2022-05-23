@@ -12,6 +12,6 @@ You can click the Preview link to take a look at your changes.
 
 ## My Github Status
 
-[![Krupali's GitHub stats](https://github-readme-stats.vercel.app/api?username=rpkrupali1&hide=contribs,stars&count_private=true)](https://github.com/rpkrupali1/github-readme-stats)
+[![Krupali's GitHub stats](https://github-readme-stats.vercel.app/api?username=rpkrupali1&hide=contribs,stars&count_private=true&show_icons=true)](https://github.com/rpkrupali1/github-readme-stats)
 
 
