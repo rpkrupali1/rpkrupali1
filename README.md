@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 
 [![Krupali's GitHub stats](https://github-readme-stats.vercel.app/api?username=rpkrupali1&hide=contribs,stars&count_private=true&show_icons=true&theme=radical)](https://github.com/rpkrupali1/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rpkrupali1&layout=compact&theme=blue-green)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rpkrupali1&layout=compact&theme=blue-green&count_private=true)
 
 ## My Pinned Repos
 <a href="https://github.com/rpkrupali1/shop-shine">
