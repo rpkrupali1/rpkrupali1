@@ -25,5 +25,7 @@ You can click the Preview link to take a look at your changes.
 </a>
 
 
+![profile-hit](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{rpkrupali1}1212%2Fhit-counter)
+
 <!-- 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=rpkrupali1) -->
