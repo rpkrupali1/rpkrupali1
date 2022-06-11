@@ -16,6 +16,8 @@ You can click the Preview link to take a look at your changes.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rpkrupali1&layout=compact&theme=blue-green&count_private=true)
 
+![profile-hit](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{rpkrupali1}1212%2Fhit-counter)
+
 ## My Pinned Repos
 <a href="https://github.com/rpkrupali1/shop-shine">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rpkrupali1&repo=shop-shine&theme=vue-dark" />
@@ -23,9 +25,9 @@ You can click the Preview link to take a look at your changes.
 <a href="https://github.com/rpkrupali1/kitchen-around-you">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rpkrupali1&repo=kitchen-around-you&theme=tokyonight" />
 </a>
+<br />
 
 
-![profile-hit](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{rpkrupali1}1212%2Fhit-counter)
 
 <!-- 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=rpkrupali1) -->
