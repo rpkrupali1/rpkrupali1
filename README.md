@@ -33,6 +33,18 @@ You can click the Preview link to take a look at your changes.
 <a href="https://github.com/rpkrupali1/kp-note-taker">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rpkrupali1&repo=kp-note-taker&theme=tokyonight" />
 </a>
+<a href="https://github.com/rpkrupali1/News4U">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rpkrupali1&repo=News4U&theme=tokyonight" />
+</a>
+<a href="https://github.com/rpkrupali1/photo-port">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rpkrupali1&repo=photo-port&theme=tokyonight" />
+</a>
+<a href="https://github.com/rpkrupali1/pizza-hunt">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rpkrupali1&repo=pizza-hunt&theme=tokyonight" />
+</a>
+<a href="https://github.com/rpkrupali1/book-search-engine">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rpkrupali1&repo=book-search-engine&theme=tokyonight" />
+</a>
 <br />
 
 
