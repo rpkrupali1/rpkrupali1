@@ -19,8 +19,13 @@ You can click the Preview link to take a look at your changes.
 ![profile-hit](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{rpkrupali1}1212%2Fhit-counter)
 
 ## My Pinned Repos
+<h4>Testing Frameworks and Projects</h4>
+<a href="https://github.com/rpkrupali1/selenium-java-framework">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rpkrupali1&repo=selenium-java-framework&theme=vue-dark" />
+</a>
+<h4>Prokects in Java Scripts</h4>
 <a href="https://github.com/rpkrupali1/shop-shine">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rpkrupali1&repo=shop-shine&theme=vue-dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rpkrupali1&repo=shop-shine&theme=tokyonight" />
 </a>
 <a href="https://github.com/rpkrupali1/kitchen-around-you">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rpkrupali1&repo=kitchen-around-you&theme=tokyonight" />
