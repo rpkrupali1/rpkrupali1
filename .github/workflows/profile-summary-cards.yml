@@ -14,72 +14,72 @@ jobs:
       contents: write
 
     steps:
-      # Profile details - contribution graph
+      # Profile details - contribution graph and activity
       - name: Profile Details
         uses: lowlighter/metrics@latest
         with:
           filename: profile-summary-card-output/0-profile-details.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
           user: rpkrupali1
           template: classic
-          base: activity, community
+          base: header, activity, community, repositories
           config_timezone: America/New_York
 
-      # Top languages by repo
-      - name: Languages by Repo
+      # Top languages across all repos
+      - name: Top Languages
         uses: lowlighter/metrics@latest
         with:
           filename: profile-summary-card-output/1-repos-per-language.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
           user: rpkrupali1
           template: classic
           base: ""
           plugin_languages: yes
-          plugin_languages_categories: programming, markup
+          plugin_languages_ignored: html, css, scss, less, dockerfile, makefile, shell
           plugin_languages_limit: 8
-          plugin_languages_sections: pie
-          plugin_languages_details: percentage
+          plugin_languages_sections: most-used
+          plugin_languages_details: bytes-size, percentage
+          plugin_languages_indepth: yes
 
-      # Top languages by commit size
-      - name: Languages by Commit
+      # Recently used languages
+      - name: Recent Languages
         uses: lowlighter/metrics@latest
         with:
           filename: profile-summary-card-output/2-most-commit-language.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
           user: rpkrupali1
           template: classic
           base: ""
           plugin_languages: yes
-          plugin_languages_categories: programming, markup
+          plugin_languages_ignored: html, css, scss, less, dockerfile, makefile, shell
           plugin_languages_limit: 8
-          plugin_languages_analysis_timeout: 30
-          plugin_languages_analysis_timeout_repositories: 10
-          plugin_languages_recent_load: 300
+          plugin_languages_sections: recently-used
+          plugin_languages_details: bytes-size, percentage
+          plugin_languages_indepth: yes
+          plugin_languages_recent_load: 500
           plugin_languages_recent_days: 365
 
-      # Stats card
+      # Contribution stats
       - name: Stats
         uses: lowlighter/metrics@latest
         with:
           filename: profile-summary-card-output/3-stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
           user: rpkrupali1
           template: classic
           base: header, repositories
-          plugin_notable: yes
-          plugin_notable_from: all
+          plugin_followup: yes
+          plugin_followup_sections: user
 
-      # Coding habits
-      - name: Coding Habits
+      # Contribution calendar
+      - name: Contribution Calendar
         uses: lowlighter/metrics@latest
         with:
           filename: profile-summary-card-output/4-productive-time.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
           user: rpkrupali1
           template: classic
           base: ""
-          plugin_habits: yes
-          plugin_habits_charts_type: classic
-          plugin_habits_days: 30
-          plugin_habits_from: 200
+          plugin_calendar: yes
+          plugin_calendar_limit: 2
           config_timezone: America/New_York
