@@ -4,7 +4,8 @@
       "Bash(gh repo:*)",
       "WebFetch(domain:github.com)",
       "WebFetch(domain:reportportal.io)",
-      "WebFetch(domain:github-readme-stats.vercel.app)"
+      "WebFetch(domain:github-readme-stats.vercel.app)",
+      "Bash(node scripts/update-readme.js)"
     ]
   }
 }

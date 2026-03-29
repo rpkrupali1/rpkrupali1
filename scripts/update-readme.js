@@ -5,6 +5,9 @@ const USERNAME = "rpkrupali1";
 const README_PATH = "README.md";
 const MAX_REPOS = 8;
 
+// Add org names here to include their repos in your profile
+const ORGS = ["QualityStackAI"];
+
 // Language -> shield badge color mapping
 const LANG_COLORS = {
   JavaScript: { color: "F7DF1E", logoColor: "black" },
@@ -51,12 +54,28 @@ function formatDate(dateStr) {
 }
 
 async function main() {
-  // Fetch repos sorted by most recently pushed, exclude forks and the profile repo
-  const repos = await fetchJSON(
+  // Fetch personal repos
+  const userRepos = await fetchJSON(
     `https://api.github.com/users/${USERNAME}/repos?sort=pushed&direction=desc&per_page=50&type=owner`
   );
 
-  const filtered = repos
+  // Fetch repos from each org
+  const orgRepoArrays = await Promise.all(
+    ORGS.map((org) =>
+      fetchJSON(
+        `https://api.github.com/orgs/${org}/repos?sort=pushed&direction=desc&per_page=20`
+      ).catch(() => {
+        console.warn(`Warning: Could not fetch repos for org "${org}"`);
+        return [];
+      })
+    )
+  );
+
+  // Merge all repos, sort by most recently pushed
+  const allRepos = [...userRepos, ...orgRepoArrays.flat()];
+  allRepos.sort((a, b) => new Date(b.pushed_at) - new Date(a.pushed_at));
+
+  const filtered = allRepos
     .filter((r) => !r.fork && r.name !== USERNAME)
     .slice(0, MAX_REPOS);
 

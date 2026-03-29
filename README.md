@@ -80,7 +80,7 @@ Enterprise Quality Architect at Rocket with 18+ years of experience in quality e
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rpkrupali1&theme=tokyonight" height="170" alt="GitHub Stats" />
 &nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rpkrupali1&theme=tokyonight" height="170" alt="Top Languages by Repo" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rpkrupali1&theme=tokyonight" height="170" alt="Top Languages by Commit" />
 
 <br/>
 
@@ -97,14 +97,27 @@ Enterprise Quality Architect at Rocket with 18+ years of experience in quality e
 ### Recently Updated Projects
 
 <!-- RECENT_REPOS:START -->
-<!-- This section is auto-updated by GitHub Actions -->
 | Project | Description | Language | Updated |
 |---------|-------------|----------|---------|
+| [api-test-generator](https://github.com/QualityStackAI/api-test-generator) | AI powered API Test Generator | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | Mar 29, 2026 |
+| [applied_data_science_learning_sales_analysis](https://github.com/rpkrupali1/applied_data_science_learning_sales_analysis) | Applied data science with python - create states sales analysis  | ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white) | Mar 29, 2026 |
+| [krupali_portfolio](https://github.com/rpkrupali1/krupali_portfolio) | — | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | Mar 20, 2026 |
+| [insomnia](https://github.com/rpkrupali1/insomnia) | — | ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white) | Aug 15, 2024 |
+| [image_master](https://github.com/rpkrupali1/image_master) | ImageMaster is a versatile image processing application designed to empower users to effortlessly resize and split images for various purposes, including printing large-scale posters, banners, and artworks. |  | Mar 18, 2024 |
+| [task-management-nestjs](https://github.com/rpkrupali1/task-management-nestjs) | — | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | Aug 1, 2023 |
+| [task-management](https://github.com/rpkrupali1/task-management) | — | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | Jun 26, 2023 |
+| [algoritms](https://github.com/rpkrupali1/algoritms) | different algorithms | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java&logoColor=white) | Dec 22, 2022 |
 <!-- RECENT_REPOS:END -->
 
 ---
 
 ### Featured Projects
+
+#### AI & Quality Engineering
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| [api-test-generator](https://github.com/QualityStackAI/api-test-generator) | AI-powered API Test Generator using Bedrock & MCP | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS_Bedrock-8C4FFF?style=flat-square&logo=amazonwebservices&logoColor=white) |
 
 #### AI & Data Science
 
