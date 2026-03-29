@@ -78,17 +78,19 @@ Enterprise Quality Architect at Rocket with 18+ years of experience in quality e
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rpkrupali1&theme=tokyonight" height="170" alt="GitHub Stats" />
+<img src="profile-summary-card-output/0-profile-details.svg" alt="Contribution Graph" />
+
+<img src="profile-summary-card-output/1-repos-per-language.svg" height="170" alt="Top Languages by Repo" />
 &nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rpkrupali1&theme=tokyonight" height="170" alt="Top Languages by Commit" />
+<img src="profile-summary-card-output/2-most-commit-language.svg" height="170" alt="Top Languages by Commit" />
+
+<img src="profile-summary-card-output/3-stats.svg" height="170" alt="GitHub Stats" />
+&nbsp;
+<img src="profile-summary-card-output/4-productive-time.svg" height="170" alt="Productive Time" />
 
 <br/>
 
 <img src="https://streak-stats.demolab.com/?user=rpkrupali1&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rpkrupali1&theme=tokyonight" alt="Contribution Graph" />
 
 </div>
 
@@ -100,7 +102,7 @@ Enterprise Quality Architect at Rocket with 18+ years of experience in quality e
 | Project | Description | Language | Updated |
 |---------|-------------|----------|---------|
 | [api-test-generator](https://github.com/QualityStackAI/api-test-generator) | AI powered API Test Generator | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | Mar 29, 2026 |
-| [applied_data_science_learning_sales_analysis](https://github.com/rpkrupali1/applied_data_science_learning_sales_analysis) | Applied data science with python - create states sales analysis  | ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white) | Mar 29, 2026 |
+| [applied_data_science_learning_sales_analysis](https://github.com/rpkrupali1/applied_data_science_learning_sales_analysis) | Applied data science with python - create states sales analysis  | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | Mar 29, 2026 |
 | [krupali_portfolio](https://github.com/rpkrupali1/krupali_portfolio) | — | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | Mar 20, 2026 |
 | [insomnia](https://github.com/rpkrupali1/insomnia) | — | ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white) | Aug 15, 2024 |
 | [image_master](https://github.com/rpkrupali1/image_master) | ImageMaster is a versatile image processing application designed to empower users to effortlessly resize and split images for various purposes, including printing large-scale posters, banners, and artworks. |  | Mar 18, 2024 |

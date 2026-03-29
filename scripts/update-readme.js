@@ -8,6 +8,12 @@ const MAX_REPOS = 8;
 // Add org names here to include their repos in your profile
 const ORGS = ["QualityStackAI"];
 
+// Override GitHub's auto-detected language when it's wrong
+// (e.g., a large HTML report makes GitHub think a Python repo is HTML)
+const LANGUAGE_OVERRIDES = {
+  applied_data_science_learning_sales_analysis: "Python",
+};
+
 // Language -> shield badge color mapping
 const LANG_COLORS = {
   JavaScript: { color: "F7DF1E", logoColor: "black" },
@@ -83,7 +89,8 @@ async function main() {
   const rows = filtered.map((r) => {
     const name = `[${r.name}](${r.html_url})`;
     const desc = r.description || "—";
-    const lang = langBadge(r.language);
+    const actualLang = LANGUAGE_OVERRIDES[r.name] || r.language;
+    const lang = langBadge(actualLang);
     const updated = formatDate(r.pushed_at);
     return `| ${name} | ${desc} | ${lang} | ${updated} |`;
   });

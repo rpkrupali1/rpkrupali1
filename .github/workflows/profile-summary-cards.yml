@@ -1,0 +1,23 @@
+name: Generate GitHub Profile Summary Cards
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: vn7n24fez6/github-profile-summary-cards@release
+        with:
+          USERNAME: rpkrupali1
+          BRANCH_NAME: main
+          UTC_OFFSET: -5
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
