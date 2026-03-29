@@ -63,8 +63,12 @@ Enterprise Quality Architect at Rocket with 18+ years of experience in quality e
 **Testing**
 
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-69D3A7?style=flat-square&logo=cypress&logoColor=white)
+![Sauce Labs](https://img.shields.io/badge/Sauce_Labs-E2231A?style=flat-square&logo=saucelabs&logoColor=white)
+![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=flat-square&logo=insomnia&logoColor=white)
+[![ReportPortal](https://img.shields.io/badge/ReportPortal-E84E3B?style=flat-square)](https://reportportal.io/)
 
 </div>
 
@@ -74,55 +78,64 @@ Enterprise Quality Architect at Rocket with 18+ years of experience in quality e
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rpkrupali1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rpkrupali1&layout=compact&theme=tokyonight&hide_border=true&count_private=true" height="170" alt="Top Languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rpkrupali1&theme=tokyonight" height="170" alt="GitHub Stats" />
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rpkrupali1&theme=tokyonight" height="170" alt="Top Languages by Repo" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rpkrupali1&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=rpkrupali1&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rpkrupali1&theme=tokyonight" alt="Contribution Graph" />
 
 </div>
 
 ---
 
+### Recently Updated Projects
+
+<!-- RECENT_REPOS:START -->
+<!-- This section is auto-updated by GitHub Actions -->
+| Project | Description | Language | Updated |
+|---------|-------------|----------|---------|
+<!-- RECENT_REPOS:END -->
+
+---
+
 ### Featured Projects
 
-<div align="center">
-
 #### AI & Data Science
-<a href="https://github.com/rpkrupali1/applied_data_science_learning_sales_analysis">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rpkrupali1&repo=applied_data_science_learning_sales_analysis&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/rpkrupali1/image_master">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rpkrupali1&repo=image_master&theme=tokyonight&hide_border=true" />
-</a>
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| [applied_data_science_learning_sales_analysis](https://github.com/rpkrupali1/applied_data_science_learning_sales_analysis) | Applied data science with Python — state sales analysis | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) |
+| [python-meteorites](https://github.com/rpkrupali1/python-meteorites) | NASA data to find meteor landing sites | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| [image_master](https://github.com/rpkrupali1/image_master) | Image processing app for resizing & splitting images | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
 
 #### Full-Stack Applications
-<a href="https://github.com/rpkrupali1/task-management-nestjs">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rpkrupali1&repo=task-management-nestjs&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/rpkrupali1/shop-shine">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rpkrupali1&repo=shop-shine&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/rpkrupali1/kitchen-around-you">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rpkrupali1&repo=kitchen-around-you&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/rpkrupali1/book-search-engine">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rpkrupali1&repo=book-search-engine&theme=tokyonight&hide_border=true" />
-</a>
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| [task-management-nestjs](https://github.com/rpkrupali1/task-management-nestjs) | Task management API | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) |
+| [shop-shine](https://github.com/rpkrupali1/shop-shine) | Online shopping platform | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) |
+| [kitchen-around-you](https://github.com/rpkrupali1/kitchen-around-you) | Find cooking programs that interest you | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| [book-search-engine](https://github.com/rpkrupali1/book-search-engine) | Search and save your favorite books | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white) |
+| [News4U](https://github.com/rpkrupali1/News4U) | Search engine for news and information | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
 
 #### Testing & Automation
-<a href="https://github.com/rpkrupali1/selenium-java-framework">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rpkrupali1&repo=selenium-java-framework&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/rpkrupali1/selenium-java">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rpkrupali1&repo=selenium-java&theme=tokyonight&hide_border=true" />
-</a>
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| [selenium-java-framework](https://github.com/rpkrupali1/selenium-java-framework) | Selenium automation Java framework | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white) |
+| [selenium-java](https://github.com/rpkrupali1/selenium-java) | Selenium automation script samples | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white) |
 
 #### Portfolio
-<a href="https://github.com/rpkrupali1/krupali_portfolio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rpkrupali1&repo=krupali_portfolio&theme=tokyonight&hide_border=true" />
-</a>
 
-</div>
+| Project | Description | Tech |
+|---------|-------------|------|
+| [krupali_portfolio](https://github.com/rpkrupali1/krupali_portfolio) | Personal portfolio website | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) |
 
 ---
 

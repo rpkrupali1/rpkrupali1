@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(gh repo:*)",
+      "WebFetch(domain:github.com)",
+      "WebFetch(domain:reportportal.io)",
+      "WebFetch(domain:github-readme-stats.vercel.app)"
+    ]
+  }
+}

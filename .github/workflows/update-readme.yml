@@ -1,0 +1,39 @@
+name: Update README with Recent Repos
+
+on:
+  # Runs every 6 hours
+  schedule:
+    - cron: "0 */6 * * *"
+  # Runs when you push to main (so it updates immediately when you create/update repos)
+  push:
+    branches: [main]
+  # Allows manual trigger from GitHub Actions tab
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Update README
+        run: node scripts/update-readme.js
+
+      - name: Commit and push if changed
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git diff --quiet README.md || {
+            git add README.md
+            git commit -m "docs: auto-update recently updated projects"
+            git push
+          }
