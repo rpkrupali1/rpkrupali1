@@ -99,7 +99,7 @@ Enterprise Quality Architect at Rocket with 18+ years of experience in quality e
 <!-- RECENT_REPOS:START -->
 | Project | Description | Language | Updated |
 |---------|-------------|----------|---------|
-| [applied_data_science_learning_sales_analysis](https://github.com/rpkrupali1/applied_data_science_learning_sales_analysis) | Applied data science with python - create states sales analysis  | ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) | Mar 29, 2026 |
+| [applied_data_science_learning_sales_analysis](https://github.com/rpkrupali1/applied_data_science_learning_sales_analysis) | Applied data science with python - create states sales analysis  | ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white) | Mar 29, 2026 |
 | [krupali_portfolio](https://github.com/rpkrupali1/krupali_portfolio) | — | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | Mar 20, 2026 |
 | [insomnia](https://github.com/rpkrupali1/insomnia) | — | ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white) | Aug 15, 2024 |
 | [image_master](https://github.com/rpkrupali1/image_master) | ImageMaster is a versatile image processing application designed to empower users to effortlessly resize and split images for various purposes, including printing large-scale posters, banners, and artworks. |  | Mar 18, 2024 |
