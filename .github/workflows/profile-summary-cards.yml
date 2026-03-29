@@ -1,23 +1,85 @@
-name: Generate GitHub Profile Summary Cards
+name: Generate GitHub Profile Metrics
 
 on:
   schedule:
     - cron: "0 */6 * * *"
+  push:
+    branches: [main]
   workflow_dispatch:
 
 jobs:
-  build:
+  metrics:
     runs-on: ubuntu-latest
     permissions:
       contents: write
 
     steps:
-      - uses: actions/checkout@v4
-
-      - uses: vn7n24fez6/github-profile-summary-cards@release
+      # Profile details - contribution graph
+      - name: Profile Details
+        uses: lowlighter/metrics@latest
         with:
-          USERNAME: rpkrupali1
-          BRANCH_NAME: main
-          UTC_OFFSET: -5
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          filename: profile-summary-card-output/0-profile-details.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: rpkrupali1
+          template: classic
+          base: activity, community
+          config_timezone: America/New_York
+
+      # Top languages by repo
+      - name: Languages by Repo
+        uses: lowlighter/metrics@latest
+        with:
+          filename: profile-summary-card-output/1-repos-per-language.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: rpkrupali1
+          template: classic
+          base: ""
+          plugin_languages: yes
+          plugin_languages_categories: programming, markup
+          plugin_languages_limit: 8
+          plugin_languages_sections: pie
+          plugin_languages_details: percentage
+
+      # Top languages by commit size
+      - name: Languages by Commit
+        uses: lowlighter/metrics@latest
+        with:
+          filename: profile-summary-card-output/2-most-commit-language.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: rpkrupali1
+          template: classic
+          base: ""
+          plugin_languages: yes
+          plugin_languages_categories: programming, markup
+          plugin_languages_limit: 8
+          plugin_languages_analysis_timeout: 30
+          plugin_languages_analysis_timeout_repositories: 10
+          plugin_languages_recent_load: 300
+          plugin_languages_recent_days: 365
+
+      # Stats card
+      - name: Stats
+        uses: lowlighter/metrics@latest
+        with:
+          filename: profile-summary-card-output/3-stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: rpkrupali1
+          template: classic
+          base: header, repositories
+          plugin_notable: yes
+          plugin_notable_from: all
+
+      # Coding habits
+      - name: Coding Habits
+        uses: lowlighter/metrics@latest
+        with:
+          filename: profile-summary-card-output/4-productive-time.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: rpkrupali1
+          template: classic
+          base: ""
+          plugin_habits: yes
+          plugin_habits_charts_type: classic
+          plugin_habits_days: 30
+          plugin_habits_from: 200
+          config_timezone: America/New_York
