@@ -80,17 +80,17 @@ Enterprise Quality Architect at Rocket with 18+ years of experience in quality e
 
 <img src="profile-summary-card-output/0-profile-details.svg" alt="Contribution Graph" />
 
-<img src="profile-summary-card-output/1-repos-per-language.svg" height="170" alt="Top Languages by Repo" />
+<img src="profile-summary-card-output/1-repos-per-language.svg" height="170" alt="Top Languages" />
 &nbsp;
-<img src="profile-summary-card-output/2-most-commit-language.svg" height="170" alt="Top Languages by Commit" />
-
 <img src="profile-summary-card-output/3-stats.svg" height="170" alt="GitHub Stats" />
-&nbsp;
-<img src="profile-summary-card-output/4-productive-time.svg" height="170" alt="Productive Time" />
 
 <br/>
 
 <img src="https://streak-stats.demolab.com/?user=rpkrupali1&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+<br/>
+
+<img src="profile-summary-card-output/4-productive-time.svg" alt="Contribution Calendar" />
 
 </div>
 
