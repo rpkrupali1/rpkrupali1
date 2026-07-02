@@ -101,7 +101,7 @@ Enterprise Quality Architect at Rocket with 18+ years of experience in quality e
 <!-- RECENT_REPOS:START -->
 | Project | Description | Language | Updated |
 |---------|-------------|----------|---------|
-| [algorithms_node](https://github.com/rpkrupali1/algorithms_node) | practice node | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | Jul 1, 2026 |
+| [algorithms_node](https://github.com/rpkrupali1/algorithms_node) | practice node | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | Jul 2, 2026 |
 | [langchain_poc](https://github.com/rpkrupali1/langchain_poc) | Langchain poc and learning | ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) | Apr 3, 2026 |
 | [api-test-generator](https://github.com/QualityStackAI/api-test-generator) | AI powered API Test Generator | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | Mar 29, 2026 |
 | [applied_data_science_learning_sales_analysis](https://github.com/rpkrupali1/applied_data_science_learning_sales_analysis) | Applied data science with python - create states sales analysis  | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | Mar 29, 2026 |
