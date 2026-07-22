@@ -101,6 +101,7 @@ Enterprise Quality Architect at Rocket with 18+ years of experience in quality e
 <!-- RECENT_REPOS:START -->
 | Project | Description | Language | Updated |
 |---------|-------------|----------|---------|
+| [artaeflora](https://github.com/rpkrupali1/artaeflora) | artaeflora repo | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | Jul 22, 2026 |
 | [algorithms_node](https://github.com/rpkrupali1/algorithms_node) | practice node | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | Jul 2, 2026 |
 | [langchain_poc](https://github.com/rpkrupali1/langchain_poc) | Langchain poc and learning | ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) | Apr 3, 2026 |
 | [api-test-generator](https://github.com/QualityStackAI/api-test-generator) | AI powered API Test Generator | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | Mar 29, 2026 |
@@ -108,7 +109,6 @@ Enterprise Quality Architect at Rocket with 18+ years of experience in quality e
 | [krupali_portfolio](https://github.com/rpkrupali1/krupali_portfolio) | — | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | Mar 20, 2026 |
 | [insomnia](https://github.com/rpkrupali1/insomnia) | — | ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white) | Aug 15, 2024 |
 | [image_master](https://github.com/rpkrupali1/image_master) | ImageMaster is a versatile image processing application designed to empower users to effortlessly resize and split images for various purposes, including printing large-scale posters, banners, and artworks. |  | Mar 18, 2024 |
-| [task-management-nestjs](https://github.com/rpkrupali1/task-management-nestjs) | — | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | Aug 1, 2023 |
 <!-- RECENT_REPOS:END -->
 
 ---
