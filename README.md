@@ -101,7 +101,7 @@ Enterprise Quality Architect at Rocket with 18+ years of experience in quality e
 <!-- RECENT_REPOS:START -->
 | Project | Description | Language | Updated |
 |---------|-------------|----------|---------|
-| [artaeflora](https://github.com/rpkrupali1/artaeflora) | artaeflora repo | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | Jul 22, 2026 |
+| [artaeflora](https://github.com/rpkrupali1/artaeflora) | artaeflora repo | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | Jul 23, 2026 |
 | [algorithms_node](https://github.com/rpkrupali1/algorithms_node) | practice node | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | Jul 2, 2026 |
 | [langchain_poc](https://github.com/rpkrupali1/langchain_poc) | Langchain poc and learning | ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) | Apr 3, 2026 |
 | [api-test-generator](https://github.com/QualityStackAI/api-test-generator) | AI powered API Test Generator | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | Mar 29, 2026 |
